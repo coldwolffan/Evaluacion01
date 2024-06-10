@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcoholemia</string>
+    <string-array name="vehicle_types">
+        <item>Camión</item>
+        <item>Autobús</item>
+        <item>Turismo</item>
+        <item>Motocicleta</item>
+    </string-array>
+</resources>
